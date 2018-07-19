@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "8,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "367,658",
+                        "endLines": "14,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "653,813"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "6,4,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "212,105,58,159",
+                        "endColumns": "45,52,45,52",
+                        "endOffsets": "253,153,99,207"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "169,215,268,314",
+                        "endColumns": "45,52,45,52",
+                        "endOffsets": "210,263,309,362"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

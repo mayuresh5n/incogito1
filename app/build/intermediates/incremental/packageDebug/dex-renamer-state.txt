@@ -1,0 +1,7 @@
+#Wed Jul 18 21:21:35 IDT 2018
+base.0=C\:\\Users\\MAYURESH\\Desktop\\NewProject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_152b2802f687dbb972ee858bfe4ba89f78fa4c5a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\MAYURESH\\Desktop\\NewProject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_413ba117c7ff6a9b084d51cbf5f938ec432ff260\\classes.dex
+base.1=C\:\\Users\\MAYURESH\\Desktop\\NewProject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_413ba117c7ff6a9b084d51cbf5f938ec432ff260
+file.0=C\:\\Users\\MAYURESH\\Desktop\\NewProject1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_152b2802f687dbb972ee858bfe4ba89f78fa4c5a\\classes.dex

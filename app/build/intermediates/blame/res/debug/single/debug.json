@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_checklist2.bmp.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-mdpi\\checklist2.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_apple1.bmp.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-hdpi\\apple1.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_inner_view.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\list_inner_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_fullnote.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\fullnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo2.bmp.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-mdpi\\logo2.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_note.bmp.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-mdpi\\note.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_todo.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\activity_main_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_note.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\activity_main_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_time1.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\activity_time1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_time.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\layout_note_inner_view.xml.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\layout\\note_inner_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo3.png.flat",
+        "source": "C:\\Users\\Mayuresh\\Documents\\NewProject1\\app\\src\\main\\res\\drawable-mdpi\\logo3.png"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAYURESH\Desktop\NewProject1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b35916b57310ede90a1e7895642b473fede48255">
+        <dex dex="C:\Users\MAYURESH\Desktop\NewProject1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_152b2802f687dbb972ee858bfe4ba89f78fa4c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAYURESH\Desktop\NewProject1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="9b02c9289f82713ad7ad00fa57dbca79ba2b7b02">
+        <dex dex="C:\Users\MAYURESH\Desktop\NewProject1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_413ba117c7ff6a9b084d51cbf5f938ec432ff260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAYURESH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\MAYURESH\Desktop\NewProject1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_bb332d19ca20635b6307e1d711874f3b6991489c\classes.dex" />
+    </item>
+
+</items>

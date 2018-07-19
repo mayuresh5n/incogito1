@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:background="@android:color/black"
+    tools:context=".MainActivity" >
+	
+     <Button
+         android:id="@+id/buttonlog1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginRight="14dp"
+         android:onClick="addTaskNow"
+         android:text="Add"
+         android:textColor="@android:color/background_light" />
+
+     <EditText
+         android:id="@+id/editText1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignBaseline="@+id/buttonlog1"
+         android:layout_alignBottom="@+id/buttonlog1"
+         android:layout_alignParentLeft="true"
+         android:ems="10"
+         android:hint="Enter Title"
+         android:textColor="@android:color/background_light" >
+
+         <requestFocus />
+     </EditText>
+
+     <EditText
+         android:id="@+id/editText2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_below="@+id/buttonlog1"
+         android:ems="10"
+         android:hint="Enter Note"
+         android:inputType="textMultiLine"
+         android:textColor="@android:color/background_light" />
+
+     <ListView
+         android:id="@+id/listView1"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentBottom="true" 
+         android:layout_below="@+id/editText2" >
+     </ListView>
+
+</RelativeLayout>
